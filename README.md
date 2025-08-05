@@ -121,7 +121,14 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
+
+Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c1711338-9633-4c25-a77b-f265fd038f66" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/716f1240-4e0e-4c1d-960e-050f40296de1" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f341157a-3263-44ca-b120-95e1a7e646a6" />
 
 
 
